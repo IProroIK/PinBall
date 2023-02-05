@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8835323542623830272
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4437337633070884967, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_Name
+      value: Tile4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6969235055258763164, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: _maxScale.x
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6969235055258763164, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: _maxScale.y
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6969235055258763164, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: _maxScale.z
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7594235087758101861, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7594235087758101861, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8029919957034759857, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_Size.y
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8029919957034759857, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 97861387, guid: 2a3e9ba7ad5f17147b144d93ff2ad9b5, type: 3}
+    - target: {fileID: 8494809299691056254, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8494809299691056254, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8494809299691056254, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8494809299691056254, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8494809299691056254, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8494809299691056254, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8494809299691056254, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8494809299691056254, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8494809299691056254, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8494809299691056254, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8494809299691056254, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9073442361288307422, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.7
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ecfe158636d099d4c8af0d797d1da736, type: 3}
